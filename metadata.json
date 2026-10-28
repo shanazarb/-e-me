@@ -1,0 +1,6 @@
+{
+  "name": "Çeşme — Bilim, Başarnyk we Hünär Platformasy",
+  "description": "Türkmenistanyň okuwçylary we ýaşlary üçin hünär ugrukdyrma, «Öz başarnygyňy bil» testi, mugallymlaryň we meşhur alymlaryň sanly awtobiografiýasy hem-de ýokary okuw mekdepleri katalogy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
